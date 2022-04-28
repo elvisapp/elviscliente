@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "477755218191",
+    "firebase_url": "https://rapi-taxi-venezuela-default-rtdb.firebaseio.com",
+    "project_id": "rapi-taxi-venezuela",
+    "storage_bucket": "rapi-taxi-venezuela.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477755218191:android:1856fa1bb6c0a731fcc67a",
+        "android_client_info": {
+          "package_name": "com.elvis.cliente"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477755218191-ntumd37t1uqbhs9asn884ordceckjul0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elvis.cliente",
+            "certificate_hash": "724733b929a66e184fe1ac94de8a3418f8859eae"
+          }
+        },
+        {
+          "client_id": "477755218191-vuemgi2jn32cbbvod3phga1qhkkg70su.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfq3VnSv_GCAQndAWjwLh5zU0IzZHirLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477755218191-vuemgi2jn32cbbvod3phga1qhkkg70su.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477755218191:android:47bc6e8a7b174f32fcc67a",
+        "android_client_info": {
+          "package_name": "com.optic.elvisConductor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477755218191-073j0b27mlhj5d0g0rk1ifhk3nkm0vsa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.optic.elvisConductor",
+            "certificate_hash": "724733b929a66e184fe1ac94de8a3418f8859eae"
+          }
+        },
+        {
+          "client_id": "477755218191-vuemgi2jn32cbbvod3phga1qhkkg70su.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfq3VnSv_GCAQndAWjwLh5zU0IzZHirLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477755218191-vuemgi2jn32cbbvod3phga1qhkkg70su.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477755218191:android:ac5b7be402dd39f9fcc67a",
+        "android_client_info": {
+          "package_name": "com.rtv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477755218191-t8m76ir5cmpdd5s1sn382k0bskscglrt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rtv",
+            "certificate_hash": "724733b929a66e184fe1ac94de8a3418f8859eae"
+          }
+        },
+        {
+          "client_id": "477755218191-vuemgi2jn32cbbvod3phga1qhkkg70su.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfq3VnSv_GCAQndAWjwLh5zU0IzZHirLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477755218191-vuemgi2jn32cbbvod3phga1qhkkg70su.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
